@@ -1,1 +1,1 @@
-#python_sifre_kosulları
+#python_sifre_kosullar-
